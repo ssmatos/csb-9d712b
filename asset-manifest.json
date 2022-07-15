@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://ssmatos.github.io/csb-9d712b/static/css/main.dc966cfe.chunk.css",
+    "main.js": "https://ssmatos.github.io/csb-9d712b/static/js/main.c9a71caa.chunk.js",
+    "main.js.map": "https://ssmatos.github.io/csb-9d712b/static/js/main.c9a71caa.chunk.js.map",
+    "runtime-main.js": "https://ssmatos.github.io/csb-9d712b/static/js/runtime-main.4f142b69.js",
+    "runtime-main.js.map": "https://ssmatos.github.io/csb-9d712b/static/js/runtime-main.4f142b69.js.map",
+    "static/js/2.043dbd1d.chunk.js": "https://ssmatos.github.io/csb-9d712b/static/js/2.043dbd1d.chunk.js",
+    "static/js/2.043dbd1d.chunk.js.map": "https://ssmatos.github.io/csb-9d712b/static/js/2.043dbd1d.chunk.js.map",
+    "index.html": "https://ssmatos.github.io/csb-9d712b/index.html",
+    "static/css/main.dc966cfe.chunk.css.map": "https://ssmatos.github.io/csb-9d712b/static/css/main.dc966cfe.chunk.css.map",
+    "static/js/2.043dbd1d.chunk.js.LICENSE.txt": "https://ssmatos.github.io/csb-9d712b/static/js/2.043dbd1d.chunk.js.LICENSE.txt",
+    "static/media/Metroid.a5407afa.png": "https://ssmatos.github.io/csb-9d712b/static/media/Metroid.a5407afa.png",
+    "static/media/Samus.da5042e7.jpeg": "https://ssmatos.github.io/csb-9d712b/static/media/Samus.da5042e7.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f142b69.js",
+    "static/js/2.043dbd1d.chunk.js",
+    "static/css/main.dc966cfe.chunk.css",
+    "static/js/main.c9a71caa.chunk.js"
+  ]
+}
